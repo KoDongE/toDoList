@@ -1,0 +1,61 @@
+.hidden {
+    display: none;
+}
+
+ul {
+    list-style:NONE;
+}
+
+#logout {
+    color:white;
+    text-align:center;
+}
+#bgImage {
+    position:absolute;
+    left:0;
+    top:0;
+    max-width:100%;
+    min-width:1450px;
+    z-index:-2;
+    filter: brightness(30%);
+}
+
+#time {
+    color:white;
+    text-align:right;
+    margin-bottom:200px;
+    margin-top:30px;
+    margin-right:20px
+}
+
+#weather {
+    color:white;
+    text-align: center;;
+}
+
+#login-form {
+    text-align: center;
+}
+#greeting {
+    color:white;
+    text-align: center;;
+}
+#quote {
+    color:white;
+    text-align:center;
+}
+
+#todo-form {
+    text-align:center;
+}
+
+#todo-list {
+    color:white;
+    text-align: center;
+    margin-right:50px;
+}
+
+
+#todo-list button {
+    background-color:rgba(255,255,255,0);
+}
